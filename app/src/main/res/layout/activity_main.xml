@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/poppins_bold"
-        android:text="Random Dog"
+        android:text="Random Cat"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,7 +22,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/img_dog"
+        android:id="@+id/img_cat"
         android:layout_width="300dp"
         android:layout_height="500dp"
         android:layout_marginTop="28dp"
@@ -37,7 +37,7 @@
         android:layout_width="200dp"
         android:layout_height="60dp"
         android:layout_marginBottom="32dp"
-        android:text="Get Dog"
+        android:text="Change Cat"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"
